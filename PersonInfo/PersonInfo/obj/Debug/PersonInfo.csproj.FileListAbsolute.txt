@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\Mario 12v\PersonInfo\PersonInfo\bin\Debug\PersonInfo.exe.config
+C:\Users\ADMIN\Desktop\Mario 12v\PersonInfo\PersonInfo\bin\Debug\PersonInfo.exe
+C:\Users\ADMIN\Desktop\Mario 12v\PersonInfo\PersonInfo\bin\Debug\PersonInfo.pdb
+C:\Users\ADMIN\Desktop\Mario 12v\PersonInfo\PersonInfo\obj\Debug\PersonInfo.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Mario 12v\PersonInfo\PersonInfo\obj\Debug\PersonInfo.Form1.resources
+C:\Users\ADMIN\Desktop\Mario 12v\PersonInfo\PersonInfo\obj\Debug\PersonInfo.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Mario 12v\PersonInfo\PersonInfo\obj\Debug\PersonInfo.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Mario 12v\PersonInfo\PersonInfo\obj\Debug\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Mario 12v\PersonInfo\PersonInfo\obj\Debug\PersonInfo.exe
+C:\Users\ADMIN\Desktop\Mario 12v\PersonInfo\PersonInfo\obj\Debug\PersonInfo.pdb
